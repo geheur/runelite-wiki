@@ -88,23 +88,31 @@ Some boss names can be substituted for shorthand versions:
 `vork` -> `Vorkath`  
 `sire` -> `Abyssal Sire`  
 `cerb` -> `Cerberus`  
+`dusk`, `dawn`, `gargs`, `ggs`, `gg` -> `Grotesque Guardians`  
+`smoke devil`, `thermy` -> `Thermonuclear Smoke Devil`  
+`hydra` -> `Alchemical Hydra`
 `supreme` -> `Dagannoth Supreme`  
 `rex` -> `Dagannoth Rex`  
 `prime` -> `Dagannoth Prime`  
 `wt` -> `Wintertodt`  
+`herbi` -> `Herbiboar`
 `barrows` -> `Barrows Chests`  
 `cg` -> `Corrupted Gauntlet`  
-`dusk`, `dawn`, `gargs` -> `Grotesque Guardians`  
-`smoke devil`, `thermy` -> `Thermonuclear Smoke Devil`  
 `zuk`, `inferno`, -> `TzKal-Zuk`  
 `sara`, `saradomin`, `zilyana`, `zily` -> `Commander Zilyana`  
 `zammy`, `zamorak`, `kril`, `kril trutsaroth` -> `K'ril Tsutsaroth`  
 `arma`, `kree`, `kreearra`, `armadyl` -> `Kree'arra`  
 `bando`, `bandos`, `graardor` -> `General Graardor`  
 `nm`, `tnm`, `nmare`, `the nightmare` -> `Nightmare`  
+`pnm`, `phosani`, `phosanis` -> `Phosani's Nightmare`
 `cox`, `xeric`, `chambers`, `olm`, `raids` -> `Chambers of Xeric`  
 `cox cm`, `xeric cm`, `chambers cm`, `olm cm`, `raids cm` -> `Chambers of Xeric: Challenge Mode`  
 `tob`, `theatre`, `verzik`, `verzik vitur`, `raids 2` -> `Theatre of Blood`    
+`tob sm`, `tob story mode`, `tob em`, `tob entry mode` -> `Theatre of Blood Entry Mode`
+`hmt` -> `Theatre of Blood Hard Mode`
+`toa` -> `Tombs of Amascut`
+`toa entry`, `toa entry mode`  -> `Tombs of Amascut Entry Mode`
+`toa expert`, `toa expert mode` -> `Tombs of Amascut Expert Mode`
 
 Note: if the chat commands for !kc do not work in-game, you first need to open up an in-game Ring of Wealth's boss kill log for RuneLite to register the kill counts.
 
