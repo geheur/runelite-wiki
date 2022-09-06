@@ -4,21 +4,54 @@ The Ground Items plugin highlights ground items and/or displays their Grand Exch
 
 ![Ground items demonstration](https://runelite.net/img/features/grounditems.png)
 
-## Item Lists
+## Tiers
 
-### Highlighted Items
+<item name colors>
+
+### Color by value
+
+Items can be colored by their value. There are 5 different value tiers: default, low, medium, high, and insane.
+
+### Color by name
+
+Items can also be highlighted by name, either by adding them to the list of highlighted items (in the expandable `Item Lists` section), or by holding ALT and clicking the "+" next to the item's name. If you enter the name manually, you can use wildcards or quantities e.g. `clue scroll*`, `coins>1000`.
+
+<image of list of highlighted items>
+<image of alt-view>
+
+## Hiding items
+
+Items can be hidden from the overlay as well.
+Like with highlighted items, you can add them to the `Hidden Items` list, with a wildcard or quantity e.g. `coins<300` or `leaping*`, or hold ALT and click the "-" next to the item's name.
+Holding ALT also lets you see hidden items temporarily.
+
+<image>
+
+## Notifications
+
+note: chat notifications untradeable drops.
+
+## Menu option condensing and hiding
+
+You can condense multiple items of the same type with `Collapse ground item menu`.
+
+<image>
+
+You can prevent picking up hidden items with left-click with the `Deprioritize Menu Hidden Items` option.
+
+## Settings
+
+### Item Lists -> Highlighted Items
 
 Configures specifically highlighted ground items. 
 
-* **Format:** `item`, `item`
+* **Format:** `item,item`
 
-### Hidden Items
+### Item Lists -> Hidden Items
 
 Configures hidden ground items. 
 
-* **Format:** `item`, `item`
-
-## Settings
+* **Format:** `item,item`
 
 ### Show Highlighted items only
 
